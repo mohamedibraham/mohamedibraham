@@ -52,7 +52,7 @@ I'm an AI and ML engineer who builds **complete, production-shaped systems** rat
 </picture>
 </a>
 
-<a href="https://github.com/mohamedibraham/Cairn">
+<a href="[https://github.com/mohamedibraham/Cairn](https://github.com/mohamedibraham/Cairn)">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/row-batch-dark.svg">
   <img src="assets/row-batch-light.svg" alt="GCP batch data pipeline. Medallion architecture with Bronze, Silver, and Gold layers on Serverless Apache Spark, Apache Iceberg, and BigQuery, plus a tag-and-split dead-letter queue." width="100%">
