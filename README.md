@@ -32,7 +32,7 @@ I'm an AI and ML engineer who builds **complete, production-shaped systems** rat
   <img src="assets/h-featured-light.svg" alt="Featured project" width="100%">
 </picture>
 
-<a href="https://github.com/mohamedibraham?tab=repositories"><img src="assets/cairn.svg" alt="Cairn, a document-grounded RAG platform in active development, with an example answer that carries two source citations." width="100%"></a>
+<a href="[https://github.com/mohamedibraham?tab=repositories](https://github.com/mohamedibraham/Cairn)"><img src="assets/cairn.svg" alt="Cairn, a document-grounded RAG platform in active development, with an example answer that carries two source citations." width="100%"></a>
 
 <p align="center">
   <a href="https://github.com/mohamedibraham?tab=repositories"><img src="assets/cta.svg" alt="View the repository"></a>
@@ -52,7 +52,7 @@ I'm an AI and ML engineer who builds **complete, production-shaped systems** rat
 </picture>
 </a>
 
-<a href="[https://github.com/mohamedibraham/Cairn](https://github.com/mohamedibraham/Cairn)">
+<a href="https://github.com/mohamedibraham/Cairn">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/row-batch-dark.svg">
   <img src="assets/row-batch-light.svg" alt="GCP batch data pipeline. Medallion architecture with Bronze, Silver, and Gold layers on Serverless Apache Spark, Apache Iceberg, and BigQuery, plus a tag-and-split dead-letter queue." width="100%">
