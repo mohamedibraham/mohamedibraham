@@ -32,10 +32,10 @@ I'm an AI and ML engineer who builds **complete, production-shaped systems** rat
   <img src="assets/h-featured-light.svg" alt="Featured project" width="100%">
 </picture>
 
-<a href="[https://github.com/mohamedibraham?tab=repositories](https://github.com/mohamedibraham/Cairn)"><img src="assets/cairn.svg" alt="Cairn, a document-grounded RAG platform in active development, with an example answer that carries two source citations." width="100%"></a>
+<a href="https://github.com/mohamedibraham?tab=repositories"><img src="assets/cairn.svg" alt="Cairn, a document-grounded RAG platform in active development, with an example answer that carries two source citations." width="100%"></a>
 
 <p align="center">
-  <a href="https://github.com/mohamedibraham?tab=repositories"><img src="assets/cta.svg" alt="View the repository"></a>
+  <a href=["https://github.com/mohamedibraham?tab=repositories](https://github.com/mohamedibraham/Cairn)"><img src="assets/cta.svg" alt="View the repository"></a>
 </p>
 
 <br>
